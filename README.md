@@ -1,4 +1,5 @@
 ### <img alt="cover-github" src="https://raw.githubusercontent.com/Whyu9-9/Whyu9-9/master/cover.png">
+![](https://komarev.com/ghpvc/?username=Whyu9-9&color=red)
 
 <!--
 **Whyu9-9/Whyu9-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
