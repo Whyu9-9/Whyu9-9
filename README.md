@@ -6,6 +6,11 @@
 <img src="https://img.shields.io/badge/android-%233DDC84.svg?&style=for-the-badge&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white">
 </p>
+<p align="center">
+<a href="https://dev.to/whyu9">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Wahyu.'s DEV Profile" height="30" width="30">
+</a>
+</p>
 <!--<p align="center">
 <a href="https://www.facebook.com/whyuuu9">
   <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">
