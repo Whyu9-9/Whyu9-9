@@ -2,7 +2,7 @@
 ## <img alt="cover-github" src="https://raw.githubusercontent.com/Whyu9-9/Whyu9-9/master/cover.png">
 <p align="center">
 <a href="https://dev.to/whyu9">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Wahyu.'s DEV Profile" height="50" width="50">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Wahyu.'s DEV Profile" height="30" width="100">
 </a>
 </p>
 <p align="center">
