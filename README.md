@@ -30,4 +30,11 @@
 </a>
 </p>-->
 
+<details>
+<summary>My Github Activity</summary>
+<div align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Whyu9-9&show_icons=true&locale=en&layout=compact&theme=radical" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Whyu9-9&show_icons=true&theme=radical&locale=en" width="410" /></p>
+</div>
+</details>
 
