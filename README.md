@@ -1,9 +1,6 @@
 
 ## <img alt="cover-github" src="https://github.com/Whyu9-9/Whyu9-9/blob/master/cover.png">
 <p align="center">
-<a href="https://dev.to/whyu9">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Wahyu.'s DEV Profile" height="40" width="500">
-</a>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white">
