@@ -1,5 +1,5 @@
 
-## <img alt="cover-github" src="https://github.com/Whyu9-9/Whyu9-9/blob/master/cover.png">
+## <img alt="cover-github" src="https://github.com/Whyu9-9/Whyu9-9/blob/master/cover1.png">
 <p align="center">
 </p>
 <p align="center">
