@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/android-%233DDC84.svg?&style=for-the-badge&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-%2400f.svg?&style=for-the-badge&logo=Node.js&logoColor=white">  
 <img src="https://img.shields.io/badge/go-9cf.svg?&style=for-the-badge&logo=go&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-blue.svg?&style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/postgresql-blue.svg?&style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
