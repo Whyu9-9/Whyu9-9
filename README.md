@@ -1,31 +1,56 @@
+<h1> Hi, I'm <em>Wahyu</em>! <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="50"></h1>
 
-## <img alt="cover-github" src="https://github.com/Whyu9-9/Whyu9-9/blob/master/cover1.png">
-<p align="center">
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/node.js-%2400f.svg?&style=for-the-badge&logo=Node.js&logoColor=white">  
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-</p>
+<img align='right' src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="230">
 
-<!--<p align="center">
-<a href="https://www.facebook.com/whyuuu9">
-  <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">
-</a>
-<a href="https://www.instagram.com/why.u9">
-  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="https://www.youtube.com/channel/UCTnDNSwZMHY4A16ZbIaR24A">
-  <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-<a href="https://twitter.com/Wahyuivan999I">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/wahyuivan/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-</p>-->
+<p>Currently working as a <strong>Software Engineer</strong> at <b><a href="https://taksu.tech">Taksu Tech</a></b></p>
+
+<p>I'm passionate about sharing knowledge and building great software. Connect with me through the links below!</p>
+
+### 📫 Connect with me:
+[![Youtube: Wahyu Ivan](https://img.shields.io/youtube/channel/subscribers/UCxc8dgcM1mBNnv9OIpuyL7w?label=Youtube%3A%20Wahyu%20Ivan)](https://www.youtube.com/@wahyuivan9)
+[![Twitter: @ivanwahyu195](https://img.shields.io/twitter/follow/ivanwahyu195?style=social)](https://twitter.com/ivanwahyu195)
+[![GitHub Whyu9-9](https://img.shields.io/github/followers/Whyu9-9?label=follow&style=social)](https://github.com/Whyu9-9)
+[![Linkedin: wahyuivan](https://img.shields.io/badge/-wahyuivan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wahyuivan/)](https://www.linkedin.com/in/wahyuivan/)
+
+### 🌟 More about me: 
+```typescript
+const AboutMe : any = {
+  languange: [
+      "Javascript",
+      "Typescript",
+      "HTML",
+      "CSS",
+      "Go",
+      "Python",
+      "Java",
+      "PHP",
+      "Kotlin"
+  ],
+  framework: ["React", "Node.js", "Laravel", "Flask"],
+  database: ["MySQL", "PostgreSQL"],
+  cloud: ["GCP", "AWS"],
+  techCommunities: {
+    members: "GDG Bali",
+    speakers: [
+      "Sharing Session BUILD IT 2022",
+      "GDG Bali Monthly Meetup March 2024",
+      "GDSC Bali Collabs 2024"
+    ],
+    mentors: [
+      "Dealls Super Mentor",
+      "DuniaCoding Mentor"
+    ]
+  },
+  quotes: "The world belongs to those who are consistent."
+};
+```
+### 📝 Blogs
+
+- Personal blog: https://medium.com/@wahyuivan
+
+### 📔 Latest Blog posts
+- [Supercharge Your Laravel SEO with the Power of Artesãos SEOTools](https://medium.com/@wahyuivan/supercharge-your-laravel-seo-with-the-power-of-artesãos-seotools-7775a5d5a394)
+- [Creating Simple Multi-Role Authentication for a Laravel 10 Web Application with Laravel Breeze](https://medium.com/@wahyuivan/creating-simple-multi-role-authentication-for-a-laravel-10-web-application-with-laravel-breeze-e88b6ea012af)
+- [Supercharge Your Express.js API Security with Helmet, CORS, and Rate Limiting](https://medium.com/@wahyuivan/supercharge-your-express-js-api-security-with-helmet-cors-and-rate-limiting-256f9d951342)
+---
+[![trophy](https://github-profile-trophy.vercel.app/?username=Whyu9-9&theme=darkhub&title=-Issues,-Reviews)](https://github.com/Whyu9-9/github-profile-trophy)
