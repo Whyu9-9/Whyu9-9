@@ -15,7 +15,7 @@
 ### 🌟 More about me 
 ```typescript
 const AboutMe : any = {
-  languange: [
+  languages: [
       "Javascript",
       "Typescript",
       "HTML",
@@ -26,9 +26,9 @@ const AboutMe : any = {
       "PHP",
       "Kotlin"
   ],
-  framework: ["React", "Node.js", "Laravel", "Flask"],
-  database: ["MySQL", "PostgreSQL"],
-  cloud: ["GCP", "AWS"],
+  frameworks: ["React", "Node.js", "Laravel", "Flask"],
+  databases: ["MySQL", "PostgreSQL"],
+  clouds: ["GCP", "AWS"],
   techCommunities: {
     members: "GDG Bali",
     speakers: [
