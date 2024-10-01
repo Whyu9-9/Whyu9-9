@@ -1,18 +1,18 @@
-<h1> Hi, I'm <em>Wahyu</em>! <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="50"></h1>
+<h1> Hi, I'm Wahyu!  👋</h1>
 
-<img align='right' src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="270">
 
 <p>Currently working as a <strong>Software Engineer</strong> at <b><a href="https://taksu.tech">Taksu Tech</a></b></p>
 
 <p>I'm passionate about sharing knowledge and building great software. Connect with me through the links below!</p>
 
-### 📫 Connect with me:
+### 📫 Connect with me
 [![Youtube: Wahyu Ivan](https://img.shields.io/youtube/channel/subscribers/UCxc8dgcM1mBNnv9OIpuyL7w?label=Youtube%3A%20Wahyu%20Ivan)](https://www.youtube.com/@wahyuivan9)
 [![Twitter: @ivanwahyu195](https://img.shields.io/twitter/follow/ivanwahyu195?style=social)](https://twitter.com/ivanwahyu195)
 [![GitHub Whyu9-9](https://img.shields.io/github/followers/Whyu9-9?label=follow&style=social)](https://github.com/Whyu9-9)
 [![Linkedin: wahyuivan](https://img.shields.io/badge/-wahyuivan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wahyuivan/)](https://www.linkedin.com/in/wahyuivan/)
 
-### 🌟 More about me: 
+### 🌟 More about me 
 ```typescript
 const AboutMe : any = {
   languange: [
@@ -45,7 +45,6 @@ const AboutMe : any = {
 };
 ```
 ### 📝 Blogs
-
 - Personal blog: https://medium.com/@wahyuivan
 
 ### 📔 Latest Blog posts
