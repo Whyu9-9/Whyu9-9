@@ -12,7 +12,7 @@
 [![GitHub Whyu9-9](https://img.shields.io/github/followers/Whyu9-9?label=follow&style=social)](https://github.com/Whyu9-9)
 [![Linkedin: wahyuivan](https://img.shields.io/badge/-wahyuivan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wahyuivan/)](https://www.linkedin.com/in/wahyuivan/)
 
-### 🌟 More about me 
+### 🚀 More about me 
 ```typescript
 const AboutMe : any = {
   languages: [
@@ -26,8 +26,8 @@ const AboutMe : any = {
       "PHP",
       "Kotlin"
   ],
-  frameworks: ["React", "Node.js", "Laravel", "Flask"],
-  databases: ["MySQL", "PostgreSQL"],
+  frameworks: ["React", "Node.js", "Laravel", "Vue"],
+  databases: ["MySQL", "PostgreSQL", "SQLite"],
   clouds: ["GCP", "AWS"],
   techCommunities: {
     members: "GDG Bali",
@@ -37,14 +37,14 @@ const AboutMe : any = {
       "GDSC Bali Collabs 2024"
     ],
     mentors: [
-      "Dealls Super Mentor",
+      "Dealls Super Mentor 🌟",
       "DuniaCoding Mentor"
     ]
   },
   quotes: "The world belongs to those who are consistent."
 };
 ```
-### 📝 Blogs
+### 📝 Blog
 - Personal blog: https://medium.com/@wahyuivan
 
 ### 📔 Latest Blog posts
