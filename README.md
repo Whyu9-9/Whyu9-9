@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="270">
 
-<p>Currently working as a <strong>Software Engineer</strong> at <b><a href="https://taksu.tech">Taksu Tech</a></b></p>
+<p>Currently working as a <strong>Software Engineer</strong> at <b><a href="https://incentro.com">Incentro</a></b></p>
 
 <p>I'm passionate about sharing knowledge and building great software. Connect with me through the links below!</p>
 
