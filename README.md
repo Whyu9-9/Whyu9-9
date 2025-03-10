@@ -32,9 +32,9 @@ const AboutMe : any = {
   techCommunities: {
     members: "GDG Bali",
     speakers: [
-      "Sharing Session BUILD IT 2022",
       "GDG Bali Monthly Meetup March 2024",
-      "GDSC Bali Collabs 2024"
+      "GDSC Bali Collabs 2024",
+      "ReactID Bali Meetup 2025"
     ],
     mentors: [
       "Dealls Super Mentor 🌟",
