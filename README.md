@@ -10,7 +10,7 @@
 [![Youtube: Wahyu Ivan](https://img.shields.io/youtube/channel/subscribers/UCxc8dgcM1mBNnv9OIpuyL7w?label=Youtube%3A%20Wahyu%20Ivan)](https://www.youtube.com/@wahyuivan9)
 [![Twitter: @ivanwahyu195](https://img.shields.io/twitter/follow/ivanwahyu195?style=social)](https://twitter.com/ivanwahyu195)
 [![GitHub Whyu9-9](https://img.shields.io/github/followers/Whyu9-9?label=follow&style=social)](https://github.com/Whyu9-9)
-[![Linkedin: wahyuivan](https://img.shields.io/badge/-wahyuivan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wahyuivan/)](https://www.linkedin.com/in/wahyuivan/)
+[![Instagram: @why.u9](https://img.shields.io/badge/Instagram-%40why.u9-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/why.u9)
 
 ### 🚀 More about me 
 ```typescript
