@@ -31,6 +31,7 @@ const AboutMe : any = {
   techCommunities: {
     members: "GDG Bali",
     speakers: [
+      "Devshare 2025",
       "ReactID Bali Meetup 2025",
       "Google I/O Extended Bali 2025"
     ],
