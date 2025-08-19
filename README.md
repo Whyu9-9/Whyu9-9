@@ -52,4 +52,14 @@ const AboutMe : any = {
 - [Creating Simple Multi-Role Authentication for a Laravel 10 Web Application with Laravel Breeze](https://medium.com/@wahyuivan/creating-simple-multi-role-authentication-for-a-laravel-10-web-application-with-laravel-breeze-e88b6ea012af)
 - [Supercharge Your Express.js API Security with Helmet, CORS, and Rate Limiting](https://medium.com/@wahyuivan/supercharge-your-express-js-api-security-with-helmet-cors-and-rate-limiting-256f9d951342)
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=Whyu9-9&theme=darkhub&title=-Issues,-Reviews&margin-w=15)](https://github.com/Whyu9-9/github-profile-trophy)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
