@@ -1,4 +1,4 @@
-<h1> Hi, I'm Wahyu!  👋</h1>
+<h1> Hi, I'm <b><a href="https://wahyuivan.dev">Wahyu</a></b>!👋</h1>
 
 <img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="270">
 
@@ -9,7 +9,6 @@
 ### 📫 Connect with me
 [![Youtube: Wahyu Ivan](https://img.shields.io/youtube/channel/subscribers/UCxc8dgcM1mBNnv9OIpuyL7w?label=Youtube%3A%20Wahyu%20Ivan)](https://www.youtube.com/@wahyuivan9)
 [![Twitter: @ivanwahyu195](https://img.shields.io/twitter/follow/ivanwahyu195?style=social)](https://twitter.com/ivanwahyu195)
-[![GitHub Whyu9-9](https://img.shields.io/github/followers/Whyu9-9?label=follow&style=social)](https://github.com/Whyu9-9)
 [![Instagram: @why.u9](https://img.shields.io/badge/Instagram-%40why.u9-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/why.u9)
 
 ### 🚀 More about me 
@@ -28,13 +27,12 @@ const AboutMe : any = {
   ],
   frameworks: ["React", "Node.js", "Laravel", "Vue"],
   databases: ["MySQL", "PostgreSQL", "SQLite"],
-  clouds: ["GCP", "AWS"],
+  clouds: ["GCP", "AWS", "Cloudflare"],
   techCommunities: {
     members: "GDG Bali",
     speakers: [
-      "GDG Bali Monthly Meetup March 2024",
-      "GDSC Bali Collabs 2024",
-      "ReactID Bali Meetup 2025"
+      "ReactID Bali Meetup 2025",
+      "Google I/O Extended Bali 2025"
     ],
     mentors: [
       "Dealls Super Mentor 🌟",
@@ -48,9 +46,9 @@ const AboutMe : any = {
 - Personal blog: https://medium.com/@wahyuivan
 
 ### 📔 Latest Blog posts
-- [Supercharge Your Laravel SEO with the Power of Artesãos SEOTools](https://medium.com/@wahyuivan/supercharge-your-laravel-seo-with-the-power-of-artesãos-seotools-7775a5d5a394)
-- [Creating Simple Multi-Role Authentication for a Laravel 10 Web Application with Laravel Breeze](https://medium.com/@wahyuivan/creating-simple-multi-role-authentication-for-a-laravel-10-web-application-with-laravel-breeze-e88b6ea012af)
-- [Supercharge Your Express.js API Security with Helmet, CORS, and Rate Limiting](https://medium.com/@wahyuivan/supercharge-your-express-js-api-security-with-helmet-cors-and-rate-limiting-256f9d951342)
+- [Manfaatkan Built-in AI di Chrome: Langkah Awal untuk Web Developer](https://wahyuivan.medium.com/manfaatkan-built-in-ai-di-chrome-langkah-awal-untuk-web-developer-3c067a655230)
+- [Pengen Nampilin Blog Medium-mu di Website Pribadi? Pakai Package Ini Aja!](https://wahyuivan.medium.com/pengen-nampilin-blog-medium-mu-di-website-pribadi-pakai-package-ini-aja-eb2bcd0c9926)
+- [Want to Showcase Your Medium Blog on Your Personal Website? This Package Makes It Easy!](https://wahyuivan.medium.com/want-to-showcase-your-medium-blog-on-your-personal-website-this-package-makes-it-easy-9789a03ab79c)
 ---
 <picture>
   <source
