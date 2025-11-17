@@ -49,7 +49,9 @@ const AboutMe : any = {
 ### 📔 Latest Blog posts
 - [Manfaatkan Built-in AI di Chrome: Langkah Awal untuk Web Developer](https://wahyuivan.medium.com/manfaatkan-built-in-ai-di-chrome-langkah-awal-untuk-web-developer-3c067a655230)
 - [Pengen Nampilin Blog Medium-mu di Website Pribadi? Pakai Package Ini Aja!](https://wahyuivan.medium.com/pengen-nampilin-blog-medium-mu-di-website-pribadi-pakai-package-ini-aja-eb2bcd0c9926)
-- [Want to Showcase Your Medium Blog on Your Personal Website? This Package Makes It Easy!](https://wahyuivan.medium.com/want-to-showcase-your-medium-blog-on-your-personal-website-this-package-makes-it-easy-9789a03ab79c)
+- [Mati Ketimpa state dan useEffect: How to Use It in a Better Way](https://wahyuivan.medium.com/mati-ketimpa-state-dan-useeffect-how-to-use-it-in-a-better-way-f10261407a83)
+
+[![An image of @whyu9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/whyu9)](https://holopin.io/@whyu9)
 ---
 <picture>
   <source
