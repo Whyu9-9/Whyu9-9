@@ -14,20 +14,6 @@
 ### 🚀 More about me 
 ```typescript
 const AboutMe : any = {
-  languages: [
-      "Javascript",
-      "Typescript",
-      "HTML",
-      "CSS",
-      "Go",
-      "Python",
-      "Java",
-      "PHP",
-      "Kotlin"
-  ],
-  frameworks: ["React", "Node.js", "Laravel", "Vue"],
-  databases: ["MySQL", "PostgreSQL", "SQLite"],
-  clouds: ["GCP", "AWS", "Cloudflare"],
   techCommunities: {
     members: "GDG Bali",
     speakers: [
@@ -43,6 +29,7 @@ const AboutMe : any = {
   quotes: "The world belongs to those who are consistent."
 };
 ```
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gcp,js,html,css,react,vue,ts,java,php,cs,go,kotlin,python,git,github,vscode,vitest,docker,vercel,cloudflare,supabase,firebase,sqlite,redis,mysql,postgres,nodejs,express,laravel,nestjs,bun,nextjs,svelte,tailwind,nuxtjs,vite,bootstrap,flutter,ruby,django,fastapi,spring,graphql,dotnet,mongodb,aws,nginx,bash,linux,githubactions,opencv&perline=20" /></a>
 ### 📝 Blog
 - Personal blog: https://medium.com/@wahyuivan
 
